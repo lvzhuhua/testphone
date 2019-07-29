@@ -1,0 +1,3 @@
+<template name="foot">
+    <view class="page-foot">所有测试机均已备案，请按时归还^_^</view>
+</template>

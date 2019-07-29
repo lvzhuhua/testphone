@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/settings/settings",
+    "pages/handbook/index/index",
+    "pages/handbook/detail/detail",
+    "pages/handbook/statistics/statistics",
+    "pages/handbook/sublist/sublist"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "无线事业部-测试机登记",
+    "navigationBarTextStyle": "black"
+  },
+  "networkTimeout": {
+    "requst": 20000,
+    "cnnectSocket": 20000,
+    "upladFile": 20000,
+    "downloadFile": 20000
+  },
+  "sitemapLocation": "sitemap.json"
+}
